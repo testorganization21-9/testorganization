@@ -6,6 +6,7 @@ import store from "./store";
 ///đasadasdasd
 const a = 1;
 const b  = 2;
+const c =3 ;
 import TodoList from "./TodoList";
 
 const App = () => (
