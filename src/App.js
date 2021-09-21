@@ -5,6 +5,7 @@ import store from "./store";
 
 ///đasadasdasd
 const a = 1;
+const b  = 2;
 import TodoList from "./TodoList";
 
 const App = () => (
