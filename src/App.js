@@ -11,4 +11,6 @@ const App = () => (
   </Provider>
 );
 
+// thinh 781 them
+
 export default App;
