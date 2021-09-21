@@ -24,7 +24,7 @@ const adds = (state = INITIAL_STATE, action) => {
   ];
 }
 
-
+// accept inganization
 const toggle = (state = INITIAL_STATE, action) =>
   state.map(
     todo =>
