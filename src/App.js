@@ -18,4 +18,6 @@ const App = () => (
 // commit1 
 
 // commit 2
+// commit nhanh 1
+// commit nhanh 2
 export default App;
