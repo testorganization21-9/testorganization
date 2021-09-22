@@ -7,6 +7,7 @@ import store from "./store";
 const a = 1;
 const b  = 2;
 const c = 4;
+const d = 1
 import TodoList from "./TodoList";
 
 const App = () => (
