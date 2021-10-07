@@ -20,6 +20,7 @@ const vvv= 22;
 const ee = 33;
 const vvvv = 3333;
 const ww = 33;
+const thinh1 = 2
 import TodoList from "./TodoList";
 
 const App = () => (
